@@ -36,28 +36,27 @@ const YoloAPI = () => {
 				<div className={styles.medias}>
 					<figure>
 						<img
-							style={{ width: "50%" }}
 							className={styles.media}
-							src="/privateProjects/resellBot/alert.png"
-							alt="Alert Example"
+							src="/privateProjects/yoloAPI/detectionOff.png"
+							alt="GUI with detection off"
 						/>
-						<figcaption>Alert Example</figcaption>
+						<figcaption>GUI With Detection Not Started</figcaption>
 					</figure>
 					<figure>
 						<img
 							className={styles.media}
-							src="/privateProjects/resellBot/ebay.png"
-							alt="Ebay Listing"
+							src="/privateProjects/yoloAPI/v7-tiny.png"
+							alt="Detections Using YOLOv7-Tiny"
 						/>
-						<figcaption>Ebay Listing</figcaption>
+						<figcaption>Detections Using YOLOv7-Tiny</figcaption>
 					</figure>
 					<figure>
 						<img
 							className={styles.media}
-							src="/privateProjects/resellBot/walmart.png"
-							alt="Ebay Listing"
+							src="/privateProjects/yoloAPI/v7.png"
+							alt="Detections Using YOLOv7"
 						/>
-						<figcaption>Walmart Listing</figcaption>
+						<figcaption>Detections Using YOLOv7</figcaption>
 					</figure>
 				</div>
 			</div>
