@@ -23,7 +23,7 @@ const projects = [
 		title: "Couple Trivia",
 		description:
 			"A fun Valentine's trivia game to test and strengthen couples' knowledge of each other.",
-		link: "https://couple-trivia.ethanlaj.dev",
+		link: "https://coupletrivia.ethanlaj.dev",
 		linkBtnText: "Play Now",
 		githubLink: "https://github.com/ethanlaj/coupletrivia",
 		tools: ["ReactJS", "JavaScript", "Node.js", "HTML", "CSS", "Bootstrap"],
