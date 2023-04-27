@@ -1,0 +1,24 @@
+:root {
+	--dark-bg-color: #1a202c;
+	--dark-text-color: #f1f5f9;
+	--dark-accent-color: #4a5568;
+	--secondary-color: #6798f9;
+}
+
+body {
+	background-color: var(--dark-bg-color);
+	color: var(--dark-text-color);
+	font-family: "Roboto", sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: var(--dark-accent-color);
+	text-decoration: none;
+}
+
+a:hover {
+	color: var(--secondary-color);
+	text-decoration: none;
+}
