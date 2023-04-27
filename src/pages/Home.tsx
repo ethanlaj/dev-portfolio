@@ -23,8 +23,8 @@ const projects = [
 		title: "Couple Trivia",
 		description:
 			"A fun Valentine's trivia game to test and strengthen couples' knowledge of each other.",
-		link: "https://www.youtube.com/watch?v=99za1ogBe78",
-		linkBtnText: "Watch Video",
+		link: "https://couple-trivia.ethanlaj.dev",
+		linkBtnText: "Play Now",
 		githubLink: "https://github.com/ethanlaj/coupletrivia",
 		tools: ["ReactJS", "JavaScript", "Node.js", "HTML", "CSS", "Bootstrap"],
 		previewImageUrl: "/previews/coupletrivia.png",
