@@ -12,6 +12,14 @@ const projects = [
 		previewImageUrl: "/privateProjects/yoloAPI/v7.png",
 	},
 	{
+		title: "Room Signage",
+		description:
+			"Webpage that shows when certain rooms are available to use at Elizabethtown College.",
+		route: "/projects/RoomSignage",
+		tools: ["JavaScript", "HTML", "CSS"],
+		previewImageUrl: "/previews/roomSignage.png",
+	},
+	{
 		title: "LabShare",
 		description: "A collaborative social networking platform designed for scientists.",
 		link: "https://labshare.xyz",
