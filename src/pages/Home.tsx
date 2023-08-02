@@ -4,6 +4,15 @@ import "../App.css";
 
 const projects = [
 	{
+		title: "Photo Portfolio",
+		description:
+			"A digital portfolio for showcasing my photographs as part of the Digital Photography course at Elizabethtown College.",
+		link: "https://photos.ethanlaj.dev",
+		githubLink: "https://github.com/ethanlaj/photo-portfolio",
+		tools: ["ReactJS", "TypeScript", "Chakra UI"],
+		previewImageUrl: "/previews/photoPortfolio.png",
+	},
+	{
 		title: "YOLO C++ API",
 		description: "Real time object detection with a GUI to control detection settings.",
 		route: "/projects/YoloAPI",
