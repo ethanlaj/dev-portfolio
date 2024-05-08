@@ -16,7 +16,7 @@ const projects = [
 		title: "Solana WordWave",
 		description: "A daily word learning game that rewards players with tokens on the Solana blockchain",
 		link: "https://wordwave.us",
-		githubLink: "https://github.com/Etown-Computer-Science-Club/SolanaWordWave",
+		githubLink: "https://github.com/ethanlaj/SolanaWordWave",
 		tools: ["Web3.JS", "React.JS", "JavaScript", "Express.JS", "MySQL", "Sequelize", "Chakra UI"],
 		previewImageUrl: "/previews/wordwave.png",
 	},
