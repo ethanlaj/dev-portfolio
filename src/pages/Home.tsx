@@ -48,7 +48,7 @@ const projects = [
 	{
 		title: "LabShare",
 		description: "A collaborative social networking platform designed for scientists",
-		link: "https://labshare.xyz",
+		link: "https://labshare.ethanlaj.dev",
 		githubLink: "https://github.com/ethanlaj/labshare",
 		tools: ["PHP", "JavaScript", "JQuery", "HTML", "CSS", "Bootstrap", "MySQL", "Google Cloud"],
 		previewImageUrl: "/previews/labshare.png",
