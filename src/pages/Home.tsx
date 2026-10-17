@@ -4,6 +4,23 @@ import "../App.css";
 
 const projects = [
 	{
+		title: "Volunteer Village",
+		description: "A volunteer coordination platform where organizers post community events and volunteers sign up, track participation, and view a leaderboard",
+		link: "https://volunteervillage.ethanlaj.dev",
+		githubLink: "https://github.com/ethanlaj/VolunteerVillage",
+		tools: ["React.JS", "Python", "Flask", "MySQL", "Auth0", "Chakra UI"],
+		previewImageUrl: "/previews/volunteerVillage.png",
+	},
+	{
+		title: "Ethanet Programming Language",
+		description: "A custom programming language with a Jison parser, an interpreter, and an interactive browser playground for writing and running programs",
+		link: "https://ethanet.ethanlaj.dev",
+		linkBtnText: "Try the Playground",
+		githubLink: "https://github.com/ethanlaj/EthaNet",
+		tools: ["JavaScript", "Jison", "Webpack", "HTML", "CSS"],
+		previewImageUrl: "/previews/ethanet.png",
+	},
+	{
 		title: "Community Connection Tracker",
 		description: "A web app created to track communications between contact persons in organizations and college staff members",
 		githubLink: "https://github.com/ethanlaj/community",
